@@ -7,8 +7,8 @@
 * @license LGPLv3 - https://www.gnu.org/licenses/lgpl-3.0.txt
 * @version 1.7.1
 * @invite gj7JFa6mF8
-* @source https://github.com/m0nstedev/Freemoji
-* @updateUrl https://raw.githubusercontent.com/m0nsterdev/Freemoji/Freemoji.plugin.js
+* @source https://github.com/m0nstedev/freemoji
+* @updateUrl https://raw.githubusercontent.com/m0nsterdev/freemoji/Freemoji.plugin.js
 */
 /*@cc_on
 @if (@_jscript)
@@ -39,18 +39,14 @@ module.exports = (() => {
             name: 'Freemoji',
             authors: [
                 {
-                    name: 'Qb',
+                    name: 'monster',
                     discord_id: '472100676407656448',
                     github_username: 'm0nsterdev'
-                },
-                {
-                    name: '--',
-                    github_username: '--'
                 }
             ],
-            version: '1.7.1',
+            version: '0.0.1',
             description: 'Send emoji external emoji and animated emoji without Nitro.',
-            github: 'https://github.com/m0nsterdev/Freemoji',
+            github: 'https://github.com/m0nsterdev/freemoji',
             github_raw: 'https://raw.githubusercontent.com/m0nsterdev/Freemoji/Freemoji.plugin.js'
         },
         changelog: [
