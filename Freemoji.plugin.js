@@ -5,8 +5,8 @@
 * @author Monsterpng
 * @authorId 472100676407656448
 * @license LGPLv3 - https://www.gnu.org/licenses/lgpl-3.0.txt
-* @version 1.7.1
-* @invite gj7JFa6mF8
+* @version 0.0.1
+* @invite GvwAdzx3
 * @source https://github.com/m0nstedev/freemoji
 * @updateUrl https://raw.githubusercontent.com/m0nsterdev/freemoji/Freemoji.plugin.js
 */
