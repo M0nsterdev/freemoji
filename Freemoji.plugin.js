@@ -7,7 +7,7 @@
 * @license LGPLv3 - https://www.gnu.org/licenses/lgpl-3.0.txt
 * @version 0.0.1
 * @invite GvwAdzx3
-* @source https://github.com/m0nstedev/freemoji
+* @source https://github.com/m0nsterdev/freemoji
 * @updateUrl https://raw.githubusercontent.com/m0nsterdev/freemoji/Freemoji.plugin.js
 */
 /*@cc_on
