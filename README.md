@@ -1,3 +1,5 @@
+**THIS PROJECT IS NOT MAINTAINDED ANYMORE**
+
 # Freemoji
 
 Using this plugin you can send emoji from other server and animated emotes without having Nitro. This works by automatically replacing selected emoji with a corresponding image link.
